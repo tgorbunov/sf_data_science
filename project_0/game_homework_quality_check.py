@@ -53,3 +53,5 @@ def score_game(guess_number) -> int:
 # RUN
 if __name__ == '__main__':
     score_game(guess_number)
+
+#среднее количество попыток за 1000 решений, составляет ~5
