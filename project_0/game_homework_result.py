@@ -23,7 +23,7 @@ def guess_number(number, num_start, num_stop):
     predict_number = (low + high) // 2  #по умолчанию програма будет начинать с середины данного промежутка
     #программа будет уменьшать промежуток в 2 раза за каждый проход
     if predict_number == number:
-       print(f"Вы угадали число, это число = {predict_number}! Задача решена за {count} попытки.")
+       print(f"Вы угадали, это число = {predict_number}! Задача решена за {count} попыток.")
        break
     elif predict_number > number:
        print(f"Попытка {count}: число {predict_number} меньше загаданного!")
