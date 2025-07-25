@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.gitignore
+
+#ignore folder
 SKK/
 
 # C extensions
