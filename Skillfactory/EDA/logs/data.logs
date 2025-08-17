@@ -1,0 +1,39 @@
+INFO: 2025-08-17 13:29:24,547: Data
+INFO: 2025-08-17 13:29:24,549: Data shape (110527, 14)
+INFO: 2025-08-17 13:29:24,575: Percentage of women: 0.653882342398853
+INFO: 2025-08-17 13:29:24,589: Percentage of men: 0.346117657601147
+ERROR: 2025-08-17 13:30:52,545: Data shape is incorrect!
+WARNING: 2025-08-17 13:49:21,477: python-dotenv could not parse statement starting at line 2
+WARNING: 2025-08-17 13:49:21,479: python-dotenv could not parse statement starting at line 3
+WARNING: 2025-08-17 13:49:47,469: python-dotenv could not parse statement starting at line 2
+WARNING: 2025-08-17 13:49:47,472: python-dotenv could not parse statement starting at line 3
+WARNING: 2025-08-17 13:50:42,966: python-dotenv could not parse statement starting at line 2
+WARNING: 2025-08-17 13:50:42,968: python-dotenv could not parse statement starting at line 3
+WARNING: 2025-08-17 13:51:39,405: python-dotenv could not parse statement starting at line 2
+WARNING: 2025-08-17 13:51:39,408: python-dotenv could not parse statement starting at line 3
+WARNING: 2025-08-17 13:52:02,676: python-dotenv could not parse statement starting at line 2
+WARNING: 2025-08-17 13:52:02,679: python-dotenv could not parse statement starting at line 3
+INFO: 2025-08-17 14:29:41,369: Data
+INFO: 2025-08-17 14:29:41,372: Data shape (110527, 14)
+INFO: 2025-08-17 14:29:41,387: Percentage of women: 0.653882342398853
+INFO: 2025-08-17 14:29:41,399: Percentage of men: 0.346117657601147
+ERROR: 2025-08-17 14:29:41,411: Data shape is incorrect!
+INFO: 2025-08-17 15:33:27,418: Data
+INFO: 2025-08-17 15:33:27,424: Data shape (110527, 14)
+INFO: 2025-08-17 15:33:27,438: Percentage of women: 0.653882342398853
+INFO: 2025-08-17 15:33:27,455: Percentage of men: 0.346117657601147
+ERROR: 2025-08-17 15:33:27,469: Data shape is incorrect!
+INFO: 2025-08-17 15:47:21,320: Data
+INFO: 2025-08-17 15:47:21,322: Data shape (110527, 14)
+INFO: 2025-08-17 15:47:21,345: Percentage of women: 0.653882342398853
+INFO: 2025-08-17 15:47:21,358: Percentage of men: 0.346117657601147
+ERROR: 2025-08-17 15:47:21,371: Data shape is incorrect!
+INFO: 2025-08-17 16:25:37,175: This is an informational message
+WARNING: 2025-08-17 16:25:37,176: This message is a warning
+ERROR: 2025-08-17 16:25:37,178: This is an error message
+CRITICAL: 2025-08-17 16:25:37,178: This is a critical message
+INFO: 2025-08-17 16:25:37,416: Data
+INFO: 2025-08-17 16:25:37,420: Data shape (110527, 14)
+INFO: 2025-08-17 16:25:37,441: Percentage of women: 0.653882342398853
+INFO: 2025-08-17 16:25:37,467: Percentage of men: 0.346117657601147
+ERROR: 2025-08-17 16:25:37,490: Data shape is incorrect!
