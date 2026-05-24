@@ -1,0 +1,778 @@
+Country Name;Country Code;Indicator Name;2020
+Arab World;ARB;Population, female;210
+Arab World;ARB;Population, male;226
+Arab World;ARB;Population, total;436
+Caribbean small states;CSS;Population, female;4
+Caribbean small states;CSS;Population, male;4
+Caribbean small states;CSS;Population, total;7
+Central Europe and the Baltics;CEB;Population, female;53
+Central Europe and the Baltics;CEB;Population, male;49
+Central Europe and the Baltics;CEB;Population, total;102
+Early-demographic dividend;EAR;Population, female;1635
+Early-demographic dividend;EAR;Population, male;1697
+Early-demographic dividend;EAR;Population, total;3332
+East Asia & Pacific;EAS;Population, female;1161
+East Asia & Pacific;EAS;Population, male;1192
+East Asia & Pacific;EAS;Population, total;2353
+East Asia & Pacific (excluding high income);EAP;Population, female;1035
+East Asia & Pacific (excluding high income);EAP;Population, male;1070
+East Asia & Pacific (excluding high income);EAP;Population, total;2106
+East Asia & Pacific (IDA & IBRD countries);TEA;Population, female;1022
+East Asia & Pacific (IDA & IBRD countries);TEA;Population, male;1058
+East Asia & Pacific (IDA & IBRD countries);TEA;Population, total;2080
+Euro area;EMU;Population, female;175
+Euro area;EMU;Population, male;168
+Euro area;EMU;Population, total;343
+Europe & Central Asia;ECS;Population, female;474
+Europe & Central Asia;ECS;Population, male;447
+Europe & Central Asia;ECS;Population, total;923
+Europe & Central Asia (excluding high income);ECA;Population, female;208
+Europe & Central Asia (excluding high income);ECA;Population, male;191
+Europe & Central Asia (excluding high income);ECA;Population, total;401
+Europe & Central Asia (IDA & IBRD countries);TEC;Population, female;240
+Europe & Central Asia (IDA & IBRD countries);TEC;Population, male;221
+Europe & Central Asia (IDA & IBRD countries);TEC;Population, total;462
+European Union;EUU;Population, female;229
+European Union;EUU;Population, male;219
+European Union;EUU;Population, total;447
+Fragile and conflict affected situations;FCS;Population, female;407
+Fragile and conflict affected situations;FCS;Population, male;408
+Fragile and conflict affected situations;FCS;Population, total;817
+Heavily indebted poor countries (HIPC);HPC;Population, female;413
+Heavily indebted poor countries (HIPC);HPC;Population, male;411
+Heavily indebted poor countries (HIPC);HPC;Population, total;823
+High income;HIC;Population, female;622
+High income;HIC;Population, male;617
+High income;HIC;Population, total;1240
+Late-demographic dividend;LTE;Population, female;1143
+Late-demographic dividend;LTE;Population, male;1165
+Late-demographic dividend;LTE;Population, total;2309
+Latin America & Caribbean;LCN;Population, female;331
+Latin America & Caribbean;LCN;Population, male;321
+Latin America & Caribbean;LCN;Population, total;652
+Latin America & Caribbean (excluding high income);LAC;Population, female;315
+Latin America & Caribbean (excluding high income);LAC;Population, male;305
+Latin America & Caribbean (excluding high income);LAC;Population, total;619
+Latin America & the Caribbean (IDA & IBRD countries);TLA;Population, female;323
+Latin America & the Caribbean (IDA & IBRD countries);TLA;Population, male;313
+Latin America & the Caribbean (IDA & IBRD countries);TLA;Population, total;637
+Least developed countries: UN classification;LDC;Population, female;531
+Least developed countries: UN classification;LDC;Population, male;526
+Least developed countries: UN classification;LDC;Population, total;1057
+Low & middle income;LMY;Population, female;3221
+Low & middle income;LMY;Population, male;3290
+Low & middle income;LMY;Population, total;6514
+Low income;LIC;Population, female;344
+Low income;LIC;Population, male;342
+Low income;LIC;Population, total;686
+Lower middle income;LMC;Population, female;1449
+Lower middle income;LMC;Population, male;1505
+Lower middle income;LMC;Population, total;2954
+Middle East & North Africa;MEA;Population, female;224
+Middle East & North Africa;MEA;Population, male;241
+Middle East & North Africa;MEA;Population, total;465
+Middle East & North Africa (excluding high income);MNA;Population, female;197
+Middle East & North Africa (excluding high income);MNA;Population, male;200
+Middle East & North Africa (excluding high income);MNA;Population, total;396
+Middle East & North Africa (IDA & IBRD countries);TMN;Population, female;194
+Middle East & North Africa (IDA & IBRD countries);TMN;Population, male;197
+Middle East & North Africa (IDA & IBRD countries);TMN;Population, total;391
+Middle income;MIC;Population, female;2877
+Middle income;MIC;Population, male;2948
+Middle income;MIC;Population, total;5828
+North America;NAC;Population, female;186
+North America;NAC;Population, male;182
+North America;NAC;Population, total;368
+Not classified;INX;Population, female;0
+Not classified;INX;Population, male;0
+Not classified;INX;Population, total;0
+OECD members;OED;Population, female;694
+OECD members;OED;Population, male;672
+OECD members;OED;Population, total;1366
+Other small states;OSS;Population, female;15
+Other small states;OSS;Population, male;17
+Other small states;OSS;Population, total;32
+Pacific island small states;PSS;Population, female;1
+Pacific island small states;PSS;Population, male;1
+Pacific island small states;PSS;Population, total;3
+Post-demographic dividend;PST;Population, female;568
+Post-demographic dividend;PST;Population, male;548
+Post-demographic dividend;PST;Population, total;1115
+Pre-demographic dividend;PRE;Population, female;485
+Pre-demographic dividend;PRE;Population, male;486
+Pre-demographic dividend;PRE;Population, total;971
+Small states;SST;Population, female;20
+Small states;SST;Population, male;22
+Small states;SST;Population, total;42
+South Asia;SAS;Population, female;898
+South Asia;SAS;Population, male;959
+South Asia;SAS;Population, total;1857
+South Asia (IDA & IBRD);TSA;Population, female;898
+South Asia (IDA & IBRD);TSA;Population, male;959
+South Asia (IDA & IBRD);TSA;Population, total;1857
+Sub-Saharan Africa;SSF;Population, female;569
+Sub-Saharan Africa;SSF;Population, male;567
+Sub-Saharan Africa;SSF;Population, total;1136
+Sub-Saharan Africa (excluding high income);SSA;Population, female;568
+Sub-Saharan Africa (excluding high income);SSA;Population, male;566
+Sub-Saharan Africa (excluding high income);SSA;Population, total;1135
+Sub-Saharan Africa (IDA & IBRD countries);TSS;Population, female;569
+Sub-Saharan Africa (IDA & IBRD countries);TSS;Population, male;567
+Sub-Saharan Africa (IDA & IBRD countries);TSS;Population, total;1136
+Upper middle income;UMC;Population, female;1428
+Upper middle income;UMC;Population, male;1443
+Upper middle income;UMC;Population, total;2874
+World;WLD;Population, female;3843
+World;WLD;Population, male;3908
+World;WLD;Population, total;7753
+Afghanistan;AFG;Population, female;19
+Afghanistan;AFG;Population, male;20
+Afghanistan;AFG;Population, total;39
+Albania;ALB;Population, female;1
+Albania;ALB;Population, male;1
+Albania;ALB;Population, total;3
+Algeria;DZA;Population, female;22
+Algeria;DZA;Population, male;22
+Algeria;DZA;Population, total;44
+American Samoa;ASM;Population, female;0
+American Samoa;ASM;Population, male;0
+American Samoa;ASM;Population, total;0
+Andorra;AND;Population, female;0
+Andorra;AND;Population, male;0
+Andorra;AND;Population, total;0
+Angola;AGO;Population, female;17
+Angola;AGO;Population, male;16
+Angola;AGO;Population, total;33
+Antigua and Barbuda;ATG;Population, female;0
+Antigua and Barbuda;ATG;Population, male;0
+Antigua and Barbuda;ATG;Population, total;0
+Argentina;ARG;Population, female;23
+Argentina;ARG;Population, male;22
+Argentina;ARG;Population, total;45
+Armenia;ARM;Population, female;2
+Armenia;ARM;Population, male;1
+Armenia;ARM;Population, total;3
+Aruba;ABW;Population, female;0
+Aruba;ABW;Population, male;0
+Aruba;ABW;Population, total;0
+Australia;AUS;Population, female;13
+Australia;AUS;Population, male;13
+Australia;AUS;Population, total;26
+Austria;AUT;Population, female;5
+Austria;AUT;Population, male;4
+Austria;AUT;Population, total;9
+Azerbaijan;AZE;Population, female;5
+Azerbaijan;AZE;Population, male;5
+Azerbaijan;AZE;Population, total;10
+Bahamas, The;BHS;Population, female;0
+Bahamas, The;BHS;Population, male;0
+Bahamas, The;BHS;Population, total;0
+Bahrain;BHR;Population, female;1
+Bahrain;BHR;Population, male;1
+Bahrain;BHR;Population, total;2
+Bangladesh;BGD;Population, female;81
+Bangladesh;BGD;Population, male;83
+Bangladesh;BGD;Population, total;165
+Barbados;BRB;Population, female;0
+Barbados;BRB;Population, male;0
+Barbados;BRB;Population, total;0
+Belarus;BLR;Population, female;5
+Belarus;BLR;Population, male;4
+Belarus;BLR;Population, total;9
+Belgium;BEL;Population, female;6
+Belgium;BEL;Population, male;6
+Belgium;BEL;Population, total;12
+Belize;BLZ;Population, female;0
+Belize;BLZ;Population, male;0
+Belize;BLZ;Population, total;0
+Benin;BEN;Population, female;6
+Benin;BEN;Population, male;6
+Benin;BEN;Population, total;12
+Bermuda;BMU;Population, female;0
+Bermuda;BMU;Population, male;0
+Bermuda;BMU;Population, total;0
+Bhutan;BTN;Population, female;0
+Bhutan;BTN;Population, male;0
+Bhutan;BTN;Population, total;1
+Bolivia;BOL;Population, female;6
+Bolivia;BOL;Population, male;6
+Bolivia;BOL;Population, total;12
+Bosnia and Herzegovina;BIH;Population, female;2
+Bosnia and Herzegovina;BIH;Population, male;2
+Bosnia and Herzegovina;BIH;Population, total;3
+Botswana;BWA;Population, female;1
+Botswana;BWA;Population, male;1
+Botswana;BWA;Population, total;2
+Brazil;BRA;Population, female;108
+Brazil;BRA;Population, male;104
+Brazil;BRA;Population, total;213
+British Virgin Islands;VGB;Population, female;0
+British Virgin Islands;VGB;Population, male;0
+British Virgin Islands;VGB;Population, total;0
+Brunei Darussalam;BRN;Population, female;0
+Brunei Darussalam;BRN;Population, male;0
+Brunei Darussalam;BRN;Population, total;0
+Bulgaria;BGR;Population, female;4
+Bulgaria;BGR;Population, male;3
+Bulgaria;BGR;Population, total;7
+Burkina Faso;BFA;Population, female;10
+Burkina Faso;BFA;Population, male;10
+Burkina Faso;BFA;Population, total;21
+Burundi;BDI;Population, female;6
+Burundi;BDI;Population, male;6
+Burundi;BDI;Population, total;12
+Cabo Verde;CPV;Population, female;0
+Cabo Verde;CPV;Population, male;0
+Cabo Verde;CPV;Population, total;1
+Cambodia;KHM;Population, female;9
+Cambodia;KHM;Population, male;8
+Cambodia;KHM;Population, total;17
+Cameroon;CMR;Population, female;13
+Cameroon;CMR;Population, male;13
+Cameroon;CMR;Population, total;27
+Canada;CAN;Population, female;19
+Canada;CAN;Population, male;19
+Canada;CAN;Population, total;38
+Cayman Islands;CYM;Population, female;0
+Cayman Islands;CYM;Population, male;0
+Cayman Islands;CYM;Population, total;0
+Central African Republic;CAF;Population, female;2
+Central African Republic;CAF;Population, male;2
+Central African Republic;CAF;Population, total;5
+Chad;TCD;Population, female;8
+Chad;TCD;Population, male;8
+Chad;TCD;Population, total;16
+Channel Islands;CHI;Population, female;0
+Channel Islands;CHI;Population, male;0
+Channel Islands;CHI;Population, total;0
+Chile;CHL;Population, female;10
+Chile;CHL;Population, male;9
+Chile;CHL;Population, total;19
+China;CHN;Population, female;683
+China;CHN;Population, male;719
+China;CHN;Population, total;1403
+Colombia;COL;Population, female;26
+Colombia;COL;Population, male;25
+Colombia;COL;Population, total;51
+Comoros;COM;Population, female;0
+Comoros;COM;Population, male;0
+Comoros;COM;Population, total;1
+Congo, Dem. Rep.;COD;Population, female;45
+Congo, Dem. Rep.;COD;Population, male;45
+Congo, Dem. Rep.;COD;Population, total;90
+Congo, Rep.;COG;Population, female;3
+Congo, Rep.;COG;Population, male;3
+Congo, Rep.;COG;Population, total;6
+Costa Rica;CRI;Population, female;3
+Costa Rica;CRI;Population, male;3
+Costa Rica;CRI;Population, total;5
+Cote d'Ivoire;CIV;Population, female;13
+Cote d'Ivoire;CIV;Population, male;13
+Cote d'Ivoire;CIV;Population, total;26
+Croatia;HRV;Population, female;2
+Croatia;HRV;Population, male;2
+Croatia;HRV;Population, total;4
+Cuba;CUB;Population, female;6
+Cuba;CUB;Population, male;6
+Cuba;CUB;Population, total;11
+Curacao;CUW;Population, female;0
+Curacao;CUW;Population, male;0
+Curacao;CUW;Population, total;0
+Cyprus;CYP;Population, female;1
+Cyprus;CYP;Population, male;1
+Cyprus;CYP;Population, total;1
+Czech Republic;CZE;Population, female;5
+Czech Republic;CZE;Population, male;5
+Czech Republic;CZE;Population, total;11
+Denmark;DNK;Population, female;3
+Denmark;DNK;Population, male;3
+Denmark;DNK;Population, total;6
+Djibouti;DJI;Population, female;0
+Djibouti;DJI;Population, male;1
+Djibouti;DJI;Population, total;1
+Dominica;DMA;Population, female;0
+Dominica;DMA;Population, male;0
+Dominica;DMA;Population, total;0
+Dominican Republic;DOM;Population, female;5
+Dominican Republic;DOM;Population, male;5
+Dominican Republic;DOM;Population, total;11
+Ecuador;ECU;Population, female;9
+Ecuador;ECU;Population, male;9
+Ecuador;ECU;Population, total;18
+Egypt, Arab Rep.;EGY;Population, female;51
+Egypt, Arab Rep.;EGY;Population, male;52
+Egypt, Arab Rep.;EGY;Population, total;102
+El Salvador;SLV;Population, female;3
+El Salvador;SLV;Population, male;3
+El Salvador;SLV;Population, total;6
+Equatorial Guinea;GNQ;Population, female;1
+Equatorial Guinea;GNQ;Population, male;1
+Equatorial Guinea;GNQ;Population, total;1
+Eritrea;ERI;Population, female;0
+Eritrea;ERI;Population, male;0
+Eritrea;ERI;Population, total;0
+Estonia;EST;Population, female;1
+Estonia;EST;Population, male;1
+Estonia;EST;Population, total;1
+Eswatini;SWZ;Population, female;1
+Eswatini;SWZ;Population, male;1
+Eswatini;SWZ;Population, total;1
+Ethiopia;ETH;Population, female;57
+Ethiopia;ETH;Population, male;58
+Ethiopia;ETH;Population, total;115
+Faroe Islands;FRO;Population, female;0
+Faroe Islands;FRO;Population, male;0
+Faroe Islands;FRO;Population, total;0
+Fiji;FJI;Population, female;0
+Fiji;FJI;Population, male;0
+Fiji;FJI;Population, total;1
+Finland;FIN;Population, female;3
+Finland;FIN;Population, male;3
+Finland;FIN;Population, total;6
+France;FRA;Population, female;35
+France;FRA;Population, male;33
+France;FRA;Population, total;67
+French Polynesia;PYF;Population, female;0
+French Polynesia;PYF;Population, male;0
+French Polynesia;PYF;Population, total;0
+Gabon;GAB;Population, female;1
+Gabon;GAB;Population, male;1
+Gabon;GAB;Population, total;2
+Gambia, The;GMB;Population, female;1
+Gambia, The;GMB;Population, male;1
+Gambia, The;GMB;Population, total;2
+Georgia;GEO;Population, female;2
+Georgia;GEO;Population, male;2
+Georgia;GEO;Population, total;4
+Germany;DEU;Population, female;42
+Germany;DEU;Population, male;41
+Germany;DEU;Population, total;83
+Ghana;GHA;Population, female;15
+Ghana;GHA;Population, male;16
+Ghana;GHA;Population, total;31
+Gibraltar;GIB;Population, female;0
+Gibraltar;GIB;Population, male;0
+Gibraltar;GIB;Population, total;0
+Greece;GRC;Population, female;5
+Greece;GRC;Population, male;5
+Greece;GRC;Population, total;11
+Greenland;GRL;Population, female;0
+Greenland;GRL;Population, male;0
+Greenland;GRL;Population, total;0
+Grenada;GRD;Population, female;0
+Grenada;GRD;Population, male;0
+Grenada;GRD;Population, total;0
+Guam;GUM;Population, female;0
+Guam;GUM;Population, male;0
+Guam;GUM;Population, total;0
+Guatemala;GTM;Population, female;9
+Guatemala;GTM;Population, male;8
+Guatemala;GTM;Population, total;17
+Guinea;GIN;Population, female;7
+Guinea;GIN;Population, male;6
+Guinea;GIN;Population, total;13
+Guinea-Bissau;GNB;Population, female;1
+Guinea-Bissau;GNB;Population, male;1
+Guinea-Bissau;GNB;Population, total;2
+Guyana;GUY;Population, female;0
+Guyana;GUY;Population, male;0
+Guyana;GUY;Population, total;1
+Haiti;HTI;Population, female;6
+Haiti;HTI;Population, male;6
+Haiti;HTI;Population, total;11
+Honduras;HND;Population, female;5
+Honduras;HND;Population, male;5
+Honduras;HND;Population, total;10
+Hong Kong SAR, China;HKG;Population, female;4
+Hong Kong SAR, China;HKG;Population, male;3
+Hong Kong SAR, China;HKG;Population, total;8
+Hungary;HUN;Population, female;5
+Hungary;HUN;Population, male;5
+Hungary;HUN;Population, total;10
+Iceland;ISL;Population, female;0
+Iceland;ISL;Population, male;0
+Iceland;ISL;Population, total;0
+India;IND;Population, female;663
+India;IND;Population, male;717
+India;IND;Population, total;1380
+Indonesia;IDN;Population, female;136
+Indonesia;IDN;Population, male;138
+Indonesia;IDN;Population, total;274
+Iran, Islamic Rep.;IRN;Population, female;42
+Iran, Islamic Rep.;IRN;Population, male;42
+Iran, Islamic Rep.;IRN;Population, total;84
+Iraq;IRQ;Population, female;20
+Iraq;IRQ;Population, male;20
+Iraq;IRQ;Population, total;40
+Ireland;IRL;Population, female;3
+Ireland;IRL;Population, male;2
+Ireland;IRL;Population, total;5
+Isle of Man;IMN;Population, female;0
+Isle of Man;IMN;Population, male;0
+Isle of Man;IMN;Population, total;0
+Israel;ISR;Population, female;5
+Israel;ISR;Population, male;5
+Israel;ISR;Population, total;9
+Italy;ITA;Population, female;31
+Italy;ITA;Population, male;29
+Italy;ITA;Population, total;60
+Jamaica;JAM;Population, female;1
+Jamaica;JAM;Population, male;1
+Jamaica;JAM;Population, total;3
+Japan;JPN;Population, female;64
+Japan;JPN;Population, male;61
+Japan;JPN;Population, total;126
+Jordan;JOR;Population, female;5
+Jordan;JOR;Population, male;5
+Jordan;JOR;Population, total;10
+Kazakhstan;KAZ;Population, female;10
+Kazakhstan;KAZ;Population, male;9
+Kazakhstan;KAZ;Population, total;19
+Kenya;KEN;Population, female;27
+Kenya;KEN;Population, male;27
+Kenya;KEN;Population, total;54
+Kiribati;KIR;Population, female;0
+Kiribati;KIR;Population, male;0
+Kiribati;KIR;Population, total;0
+Korea, Dem. People  Rep.;PRK;Population, female;13
+Korea, Dem. People  Rep.;PRK;Population, male;13
+Korea, Dem. People  Rep.;PRK;Population, total;26
+Korea, Rep.;KOR;Population, female;26
+Korea, Rep.;KOR;Population, male;26
+Korea, Rep.;KOR;Population, total;52
+Kosovo;XKX;Population, female;0
+Kosovo;XKX;Population, male;0
+Kosovo;XKX;Population, total;2
+Kuwait;KWT;Population, female;2
+Kuwait;KWT;Population, male;3
+Kuwait;KWT;Population, total;4
+Kyrgyz Republic;KGZ;Population, female;3
+Kyrgyz Republic;KGZ;Population, male;3
+Kyrgyz Republic;KGZ;Population, total;7
+Lao PDR;LAO;Population, female;4
+Lao PDR;LAO;Population, male;4
+Lao PDR;LAO;Population, total;7
+Latvia;LVA;Population, female;1
+Latvia;LVA;Population, male;1
+Latvia;LVA;Population, total;2
+Lebanon;LBN;Population, female;3
+Lebanon;LBN;Population, male;3
+Lebanon;LBN;Population, total;7
+Lesotho;LSO;Population, female;1
+Lesotho;LSO;Population, male;1
+Lesotho;LSO;Population, total;2
+Liberia;LBR;Population, female;3
+Liberia;LBR;Population, male;3
+Liberia;LBR;Population, total;5
+Libya;LBY;Population, female;3
+Libya;LBY;Population, male;3
+Libya;LBY;Population, total;7
+Liechtenstein;LIE;Population, female;0
+Liechtenstein;LIE;Population, male;0
+Liechtenstein;LIE;Population, total;0
+Lithuania;LTU;Population, female;1
+Lithuania;LTU;Population, male;1
+Lithuania;LTU;Population, total;3
+Luxembourg;LUX;Population, female;0
+Luxembourg;LUX;Population, male;0
+Luxembourg;LUX;Population, total;1
+Macao SAR, China;MAC;Population, female;0
+Macao SAR, China;MAC;Population, male;0
+Macao SAR, China;MAC;Population, total;1
+Madagascar;MDG;Population, female;14
+Madagascar;MDG;Population, male;14
+Madagascar;MDG;Population, total;28
+Malawi;MWI;Population, female;10
+Malawi;MWI;Population, male;9
+Malawi;MWI;Population, total;19
+Malaysia;MYS;Population, female;16
+Malaysia;MYS;Population, male;17
+Malaysia;MYS;Population, total;32
+Maldives;MDV;Population, female;0
+Maldives;MDV;Population, male;0
+Maldives;MDV;Population, total;1
+Mali;MLI;Population, female;10
+Mali;MLI;Population, male;10
+Mali;MLI;Population, total;20
+Malta;MLT;Population, female;0
+Malta;MLT;Population, male;0
+Malta;MLT;Population, total;1
+Marshall Islands;MHL;Population, female;0
+Marshall Islands;MHL;Population, male;0
+Marshall Islands;MHL;Population, total;0
+Mauritania;MRT;Population, female;2
+Mauritania;MRT;Population, male;2
+Mauritania;MRT;Population, total;5
+Mauritius;MUS;Population, female;1
+Mauritius;MUS;Population, male;1
+Mauritius;MUS;Population, total;1
+Mexico;MEX;Population, female;66
+Mexico;MEX;Population, male;63
+Mexico;MEX;Population, total;129
+Micronesia, Fed. Sts.;FSM;Population, female;0
+Micronesia, Fed. Sts.;FSM;Population, male;0
+Micronesia, Fed. Sts.;FSM;Population, total;0
+Moldova;MDA;Population, female;1
+Moldova;MDA;Population, male;1
+Moldova;MDA;Population, total;3
+Monaco;MCO;Population, female;0
+Monaco;MCO;Population, male;0
+Monaco;MCO;Population, total;0
+Mongolia;MNG;Population, female;2
+Mongolia;MNG;Population, male;2
+Mongolia;MNG;Population, total;3
+Montenegro;MNE;Population, female;0
+Montenegro;MNE;Population, male;0
+Montenegro;MNE;Population, total;1
+Morocco;MAR;Population, female;19
+Morocco;MAR;Population, male;18
+Morocco;MAR;Population, total;37
+Mozambique;MOZ;Population, female;16
+Mozambique;MOZ;Population, male;15
+Mozambique;MOZ;Population, total;31
+Myanmar;MMR;Population, female;28
+Myanmar;MMR;Population, male;26
+Myanmar;MMR;Population, total;54
+Namibia;NAM;Population, female;1
+Namibia;NAM;Population, male;1
+Namibia;NAM;Population, total;3
+Nauru;NRU;Population, female;0
+Nauru;NRU;Population, male;0
+Nauru;NRU;Population, total;0
+Nepal;NPL;Population, female;16
+Nepal;NPL;Population, male;13
+Nepal;NPL;Population, total;29
+Netherlands;NLD;Population, female;9
+Netherlands;NLD;Population, male;9
+Netherlands;NLD;Population, total;17
+New Caledonia;NCL;Population, female;0
+New Caledonia;NCL;Population, male;0
+New Caledonia;NCL;Population, total;0
+New Zealand;NZL;Population, female;3
+New Zealand;NZL;Population, male;2
+New Zealand;NZL;Population, total;5
+Nicaragua;NIC;Population, female;3
+Nicaragua;NIC;Population, male;3
+Nicaragua;NIC;Population, total;7
+Niger;NER;Population, female;12
+Niger;NER;Population, male;12
+Niger;NER;Population, total;24
+Nigeria;NGA;Population, female;102
+Nigeria;NGA;Population, male;104
+Nigeria;NGA;Population, total;206
+North Macedonia;MKD;Population, female;1
+North Macedonia;MKD;Population, male;1
+North Macedonia;MKD;Population, total;2
+Northern Mariana Islands;MNP;Population, female;0
+Northern Mariana Islands;MNP;Population, male;0
+Northern Mariana Islands;MNP;Population, total;0
+Norway;NOR;Population, female;3
+Norway;NOR;Population, male;3
+Norway;NOR;Population, total;5
+Oman;OMN;Population, female;2
+Oman;OMN;Population, male;3
+Oman;OMN;Population, total;5
+Pakistan;PAK;Population, female;107
+Pakistan;PAK;Population, male;114
+Pakistan;PAK;Population, total;221
+Palau;PLW;Population, female;0
+Palau;PLW;Population, male;0
+Palau;PLW;Population, total;0
+Panama;PAN;Population, female;2
+Panama;PAN;Population, male;2
+Panama;PAN;Population, total;4
+Papua New Guinea;PNG;Population, female;4
+Papua New Guinea;PNG;Population, male;5
+Papua New Guinea;PNG;Population, total;9
+Paraguay;PRY;Population, female;4
+Paraguay;PRY;Population, male;4
+Paraguay;PRY;Population, total;7
+Peru;PER;Population, female;17
+Peru;PER;Population, male;16
+Peru;PER;Population, total;33
+Philippines;PHL;Population, female;55
+Philippines;PHL;Population, male;55
+Philippines;PHL;Population, total;110
+Poland;POL;Population, female;20
+Poland;POL;Population, male;18
+Poland;POL;Population, total;38
+Portugal;PRT;Population, female;5
+Portugal;PRT;Population, male;5
+Portugal;PRT;Population, total;10
+Puerto Rico;PRI;Population, female;2
+Puerto Rico;PRI;Population, male;1
+Puerto Rico;PRI;Population, total;3
+Qatar;QAT;Population, female;1
+Qatar;QAT;Population, male;2
+Qatar;QAT;Population, total;3
+Romania;ROU;Population, female;10
+Romania;ROU;Population, male;9
+Romania;ROU;Population, total;19
+Russian Federation;RUS;Population, female;77
+Russian Federation;RUS;Population, male;67
+Russian Federation;RUS;Population, total;144
+Rwanda;RWA;Population, female;7
+Rwanda;RWA;Population, male;6
+Rwanda;RWA;Population, total;13
+Samoa;WSM;Population, female;0
+Samoa;WSM;Population, male;0
+Samoa;WSM;Population, total;0
+San Marino;SMR;Population, female;0
+San Marino;SMR;Population, male;0
+San Marino;SMR;Population, total;0
+Sao Tome and Principe;STP;Population, female;0
+Sao Tome and Principe;STP;Population, male;0
+Sao Tome and Principe;STP;Population, total;0
+Saudi Arabia;SAU;Population, female;15
+Saudi Arabia;SAU;Population, male;20
+Saudi Arabia;SAU;Population, total;35
+Senegal;SEN;Population, female;9
+Senegal;SEN;Population, male;8
+Senegal;SEN;Population, total;17
+Serbia;SRB;Population, female;4
+Serbia;SRB;Population, male;3
+Serbia;SRB;Population, total;7
+Seychelles;SYC;Population, female;0
+Seychelles;SYC;Population, male;0
+Seychelles;SYC;Population, total;0
+Sierra Leone;SLE;Population, female;4
+Sierra Leone;SLE;Population, male;4
+Sierra Leone;SLE;Population, total;8
+Singapore;SGP;Population, female;3
+Singapore;SGP;Population, male;3
+Singapore;SGP;Population, total;6
+Sint Maarten (Dutch part);SXM;Population, female;0
+Sint Maarten (Dutch part);SXM;Population, male;0
+Sint Maarten (Dutch part);SXM;Population, total;0
+Slovak Republic;SVK;Population, female;3
+Slovak Republic;SVK;Population, male;3
+Slovak Republic;SVK;Population, total;5
+Slovenia;SVN;Population, female;1
+Slovenia;SVN;Population, male;1
+Slovenia;SVN;Population, total;2
+Solomon Islands;SLB;Population, female;0
+Solomon Islands;SLB;Population, male;0
+Solomon Islands;SLB;Population, total;1
+Somalia;SOM;Population, female;8
+Somalia;SOM;Population, male;8
+Somalia;SOM;Population, total;16
+South Africa;ZAF;Population, female;30
+South Africa;ZAF;Population, male;29
+South Africa;ZAF;Population, total;59
+South Sudan;SSD;Population, female;6
+South Sudan;SSD;Population, male;6
+South Sudan;SSD;Population, total;11
+Spain;ESP;Population, female;24
+Spain;ESP;Population, male;23
+Spain;ESP;Population, total;47
+Sri Lanka;LKA;Population, female;11
+Sri Lanka;LKA;Population, male;11
+Sri Lanka;LKA;Population, total;22
+St. Kitts and Nevis;KNA;Population, female;0
+St. Kitts and Nevis;KNA;Population, male;0
+St. Kitts and Nevis;KNA;Population, total;0
+St. Lucia;LCA;Population, female;0
+St. Lucia;LCA;Population, male;0
+St. Lucia;LCA;Population, total;0
+St. Martin (French part);MAF;Population, female;0
+St. Martin (French part);MAF;Population, male;0
+St. Martin (French part);MAF;Population, total;0
+St. Vincent and the Grenadines;VCT;Population, female;0
+St. Vincent and the Grenadines;VCT;Population, male;0
+St. Vincent and the Grenadines;VCT;Population, total;0
+Sudan;SDN;Population, female;22
+Sudan;SDN;Population, male;22
+Sudan;SDN;Population, total;44
+Suriname;SUR;Population, female;0
+Suriname;SUR;Population, male;0
+Suriname;SUR;Population, total;1
+Sweden;SWE;Population, female;5
+Sweden;SWE;Population, male;5
+Sweden;SWE;Population, total;10
+Switzerland;CHE;Population, female;4
+Switzerland;CHE;Population, male;4
+Switzerland;CHE;Population, total;9
+Syrian Arab Republic;SYR;Population, female;9
+Syrian Arab Republic;SYR;Population, male;9
+Syrian Arab Republic;SYR;Population, total;18
+Tajikistan;TJK;Population, female;5
+Tajikistan;TJK;Population, male;5
+Tajikistan;TJK;Population, total;10
+Tanzania;TZA;Population, female;30
+Tanzania;TZA;Population, male;30
+Tanzania;TZA;Population, total;60
+Thailand;THA;Population, female;36
+Thailand;THA;Population, male;34
+Thailand;THA;Population, total;70
+Timor-Leste;TLS;Population, female;1
+Timor-Leste;TLS;Population, male;1
+Timor-Leste;TLS;Population, total;1
+Togo;TGO;Population, female;4
+Togo;TGO;Population, male;4
+Togo;TGO;Population, total;8
+Tonga;TON;Population, female;0
+Tonga;TON;Population, male;0
+Tonga;TON;Population, total;0
+Trinidad and Tobago;TTO;Population, female;1
+Trinidad and Tobago;TTO;Population, male;1
+Trinidad and Tobago;TTO;Population, total;1
+Tunisia;TUN;Population, female;6
+Tunisia;TUN;Population, male;6
+Tunisia;TUN;Population, total;12
+Turkey;TUR;Population, female;43
+Turkey;TUR;Population, male;42
+Turkey;TUR;Population, total;84
+Turkmenistan;TKM;Population, female;3
+Turkmenistan;TKM;Population, male;3
+Turkmenistan;TKM;Population, total;6
+Turks and Caicos Islands;TCA;Population, female;0
+Turks and Caicos Islands;TCA;Population, male;0
+Turks and Caicos Islands;TCA;Population, total;0
+Tuvalu;TUV;Population, female;0
+Tuvalu;TUV;Population, male;0
+Tuvalu;TUV;Population, total;0
+Uganda;UGA;Population, female;23
+Uganda;UGA;Population, male;23
+Uganda;UGA;Population, total;46
+Ukraine;UKR;Population, female;24
+Ukraine;UKR;Population, male;20
+Ukraine;UKR;Population, total;44
+United Arab Emirates;ARE;Population, female;3
+United Arab Emirates;ARE;Population, male;7
+United Arab Emirates;ARE;Population, total;10
+United Kingdom;GBR;Population, female;34
+United Kingdom;GBR;Population, male;33
+United Kingdom;GBR;Population, total;67
+United States;USA;Population, female;167
+United States;USA;Population, male;163
+United States;USA;Population, total;330
+Uruguay;URY;Population, female;2
+Uruguay;URY;Population, male;2
+Uruguay;URY;Population, total;3
+Uzbekistan;UZB;Population, female;17
+Uzbekistan;UZB;Population, male;17
+Uzbekistan;UZB;Population, total;34
+Vanuatu;VUT;Population, female;0
+Vanuatu;VUT;Population, male;0
+Vanuatu;VUT;Population, total;0
+Venezuela, RB;VEN;Population, female;14
+Venezuela, RB;VEN;Population, male;14
+Venezuela, RB;VEN;Population, total;28
+Vietnam;VNM;Population, female;49
+Vietnam;VNM;Population, male;49
+Vietnam;VNM;Population, total;97
+Virgin Islands (U.S.);VIR;Population, female;0
+Virgin Islands (U.S.);VIR;Population, male;0
+Virgin Islands (U.S.);VIR;Population, total;0
+West Bank and Gaza;PSE;Population, female;2
+West Bank and Gaza;PSE;Population, male;2
+West Bank and Gaza;PSE;Population, total;5
+Yemen, Rep.;YEM;Population, female;15
+Yemen, Rep.;YEM;Population, male;15
+Yemen, Rep.;YEM;Population, total;30
+Zambia;ZMB;Population, female;9
+Zambia;ZMB;Population, male;9
+Zambia;ZMB;Population, total;18
+Zimbabwe;ZWE;Population, female;8
+Zimbabwe;ZWE;Population, male;7
+Zimbabwe;ZWE;Population, total;15
