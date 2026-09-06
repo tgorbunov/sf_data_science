@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+  graphite:
+    image: graphiteapp/graphite-statsd
+    container_name: graphite
+    restart: always
+    ports:
+      - "80:80"
+      - "2003-2004:2003-2004"
+      - "2023-2024:2023-2024"
+      - "8125:8125/udp"
+      - "8126:8126"
+    volumes:
+      - graphite_conf:/opt/graphite/conf
+      - graphite_storage:/opt/graphite/storage
+
+volumes:
+  graphite_conf:
+  graphite_storage:
