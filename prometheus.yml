@@ -32,3 +32,9 @@ scrape_configs:
 
     static_configs:
       - targets: ["host.docker.internal:9100"]
+
+  - job_name: "ml_model"
+
+    static_configs:
+      # Эндпоинт /metrics, поднятый prometheus_client.start_http_server(8001) в ноутбуке
+      - targets: ["host.docker.internal:8001"]
